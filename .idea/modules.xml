@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tklcraft.Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tklcraft.Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SamplePlugin.iml" filepath="$PROJECT_DIR$/.idea/SamplePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SamplePlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SamplePlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SamplePlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SamplePlugin.test.iml" />
     </modules>
   </component>
 </project>

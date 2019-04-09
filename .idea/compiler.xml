@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Sample.main" target="1.8" />
       <module name="Sample.test" target="1.8" />
+      <module name="SamplePlugin.main" target="1.8" />
+      <module name="SamplePlugin.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
