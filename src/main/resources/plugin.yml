@@ -1,0 +1,5 @@
+name: Sample
+version: @version@
+main: com.tklcraft.sample.SamplePlugin
+api-version: '1.13'
+author: kanakiyo314
